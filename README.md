@@ -1,5 +1,5 @@
 # simon-says
-An upgraded version of the analog game "Simon Says"
+An upgraded version of the analog game "Simon Says", done with Arduino.
 
 ### 3D design:
 <img src="https://user-images.githubusercontent.com/65773072/172521379-b603bc46-bfc6-4b09-b580-71ad2c69b97d.jpg" alt="simon-says-design" width="300"/>
